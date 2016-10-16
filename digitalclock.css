@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	font-family: helvetica;
+}
+
+div.clock {
+	padding: 50px;
+	width: 700px;
+	border: solid white 5px;
+	border-radius: 40px;
+	margin: 10% auto;
+}
+
+div.heading {
+	color: yellow;
+	margin: 0 auto;
+	font-size: 40pt;
+
+}
+
+#time {
+	color: white;
+	font-size: 70pt;
+	width: 50%;
+	padding: 20px;
+}
